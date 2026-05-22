@@ -46,15 +46,15 @@ function Hero() {
           <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent lg:bg-gradient-to-r lg:from-[#15346A]/40 lg:to-transparent" />
 
           {/* Summary Box */}
-          <div className="absolute bottom-0 left-0 right-0 bg-white px-2 py-3 text-gray-700 shadow-xl sm:px-10 lg:px-12">
-            <p className="mb-4 max-w-4xl text-sm leading-relaxed sm:text-base">
+          <div className="absolute bottom-0 left-0 right-0 bg-white px-1 py-1 text-gray-700 shadow-xl sm:px-10 lg:px-12">
+            <p className="mb-3 max-w-4xl text-sm leading-relaxed sm:text-base">
               Turning ideas into clean, responsive, and user-friendly web experiences is 
               what I enjoy most. My main focus is frontend development with React and
               Tailwind CSS, while I continue building my knowledge in backend development
               to become a more complete software developer.
             </p>
 
-            <button className="bg-gray-900 px-6 py-3 text-sm font-medium text-white transition hover:bg-[#15346A]">
+            <button className="bg-gray-900 px-4 py-1 text-sm font-medium text-white transition hover:bg-[#15346A]">
               VIEW RESUME
             </button>
           </div>
