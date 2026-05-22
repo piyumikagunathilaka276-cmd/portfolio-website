@@ -21,7 +21,7 @@ It showcases my projects, skills, education, and contact details as an undergrad
 
 ## Live Demo
 
-Coming soon
+https://portfolio-website-ochre-five-76.vercel.app/
 
 ## GitHub Repository
 
