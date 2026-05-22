@@ -22,8 +22,8 @@ const projects = [
     description:
       "A personal portfolio website showcasing my projects, skills, and development journey.",
     tags: ["React.js", "Tailwind", "UI/UX"],
-    liveLink: "#",
-    githubLink: "#",
+    liveLink: "https://portfolio-website-ochre-five-76.vercel.app/",
+    githubLink: "https://github.com/piyumikagunathilaka276-cmd/portfolio-website",
   },
   {
     title: "Patient Record Management System",
