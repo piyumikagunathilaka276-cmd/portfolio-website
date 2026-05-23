@@ -13,7 +13,7 @@ const projects = [
     description:
       "A mobile app UI for tracking daily nutrition, workouts, and healthy habits.",
     tags: ["Figma", "UI/UX"],
-    liveLink: "https://www.figma.com/proto/Ht9KdPuZlt57QMMS2LeEEP/Week-04?node-id=0-1&t=lmV3R83B1aeXl1Va-1",
+    liveLink: "#",
     githubLink: "#",
   },
   {
