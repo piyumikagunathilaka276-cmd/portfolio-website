@@ -51,7 +51,7 @@ function Hero() {
               Turning ideas into clean, responsive, and user-friendly web experiences is 
               what I enjoy most. My main focus is frontend development with React and
               Tailwind CSS, while I continue building my knowledge in backend development
-              to become a well-rounded developer.
+              to become a well-rounded software developer.
             </p>
 
             <button className="bg-gray-900 px-4 py-1 text-sm font-medium text-white transition hover:bg-[#15346A]">
