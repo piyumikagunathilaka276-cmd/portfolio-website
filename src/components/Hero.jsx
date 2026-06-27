@@ -54,9 +54,14 @@ function Hero() {
               to become a well-rounded software developer.
             </p>
 
-            <button className="bg-gray-900 px-4 py-1 text-sm font-medium text-white transition hover:bg-[#15346A]">
-              VIEW RESUME
-            </button>
+            <a
+              href="/Nethmini Gunathilaka_CV.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block bg-gray-900 px-4 py-1 text-sm font-medium text-white transition hover:bg-[#15346A]"
+            >
+            VIEW RESUME
+            </a>
           </div>
         </div>
       </div>
